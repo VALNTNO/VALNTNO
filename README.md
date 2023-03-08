@@ -42,7 +42,7 @@ Tengo 20 años y me rigen la constante evolución y la búsqueda de armonía en 
 | rm      | Permite eliminar un archivo o una carpeta del sistema |
 
 
-> Alias que aprendí
+>  Aprendí a usar alias!
 
 
 ```bash
