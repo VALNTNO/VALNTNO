@@ -20,7 +20,7 @@ Tengo 20 años y me rigen la constante evolución y la búsqueda de armonía en 
 
 
 - Leer 📚
-- Meditar 🧘‍♂️
+- Meditar 🧘‍♂️    
 - Jugar videojuegos 🎮
 
 
@@ -42,7 +42,7 @@ Tengo 20 años y me rigen la constante evolución y la búsqueda de armonía en 
 | rm      | Permite eliminar un archivo o una carpeta del sistema |
 
 
-> Alias que aprendí
+> Aprendí a usar alias
 
 
 ```bash
@@ -55,7 +55,7 @@ alias cl="clear"
 
 **VALNTNO/VALNTNO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -64,5 +64,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
